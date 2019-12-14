@@ -1,0 +1,16 @@
+Instructions for editing this website.
+
+Follow instructions in https://jekyllrb.com/docs/ to install jekyll.
+This included at least ruby via brew, jekyll via gem.
+Also, since this was destined for github, the following command was also run:
+  gem install github-pages
+
+From that point, it should be possible to run
+  bundle exec jekyll serve
+
+bundle update
+bundle update github-pages
+
+Interesting resources: https://jekyllrb.com/docs/posts/#drafts
+
+
