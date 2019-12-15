@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
 More information to come soon!
+
